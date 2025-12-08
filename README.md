@@ -1,4 +1,5 @@
 # Inventory-Management-SQL-Analysis
+[View Verified Certificate](https://certificate.givemycertificate.com/c/459eeed6-579f-49cb-b04a-c30dc7048ee8)
 SQL-based inventory management analytics project for Urban Retail Co. analyzing stockouts, overstocking, demand forecasting, and turnover 
 
 ## 📋 Project Overview
@@ -10,6 +11,9 @@ This project addresses inventory management challenges faced by **Urban Retail C
 - 📊 Lack of real-time SKU-level visibility
 - 🎯 Absence of data-driven decision-making
 
+## 🏆 Certification
+
+**Certificate:** Verified project certificate – Inventory Analytics (GiveMyCertificate) with verified credentials. [View Certificate](https://certificate.givemycertificate.com/c/459eeed6-579f-49cb-b04a-c30dc7048ee8)
 ## 👨‍💻 Author
 
 **Eshan Sugeesh**  
